@@ -22,3 +22,4 @@ A simple Java desktop application that helps students quickly find and sort sche
 4. **Results Area** – Displays data for each found CRN in order.
 
 
+![Кампус_Университета_Нархоз](https://github.com/user-attachments/assets/bead2701-6ab5-4e5f-9203-28097ae69bc0)
